@@ -2,7 +2,7 @@
 * This is a classic Chess game written in Ruby for terminal play between two human players.
 
 # Setup
-* Run "ruby game.rb" in your console program of choice.
+* After downloading and opening the repository, run "ruby game.rb" in your console program of choice.
 
 # Controls
 * Input a move as a number-number coordinate pair separated by a comma. The input order is row, column. For  example, 6,3 selects the white player's pawn above the queen. A subsequent input of 4,3 will advance the pawn two spaces. Please follow the instructions in the terminal throughout game play.
